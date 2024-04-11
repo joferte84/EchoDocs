@@ -1,6 +1,9 @@
 
 # 📚🗨️  EchoDocs: Convierte tus documentos en conversaciones con chatGPT
 
+![Interfaz de EchoDocs](EchoDocs.jpg)
+
+
 Descubre cómo ChatGPT puede dar vida a tus archivos PDF, ofreciéndote respuestas interactivas a cualquier pregunta que tengas sobre el contenido de tus documentos.
 
 
